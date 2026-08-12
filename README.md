@@ -1,8 +1,8 @@
 ﻿# xcm-assets
 
-Public CDN for XCM Construction site media (hero video). Must stay public so the homepage can hotlink the MP4.
+Public CDN for XCM Construction site media. Must stay public.
 
-- `hero-construction.mp4` — muted loop, trimmed 7s–25s, watermark cropped
-- `hero-construction-poster.jpg` — first-paint poster
+- `hero-v3.mp4` — 1080p30 muted loop (trim 7s-25s, watermark cropped)
+- `hero-v3-poster.jpg` — poster
 
-Do not privatize this repo or the hero video 404s.
+Prefer jsDelivr: `https://cdn.jsdelivr.net/gh/zacharyahutton/xcm-assets@master/hero-v3.mp4`
